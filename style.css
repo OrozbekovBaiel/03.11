@@ -32,3 +32,12 @@ a{
   margin: 20px;
   
 }
+ .contactcontent{
+  display:none;
+  transition: all .3s;
+  }
+  
+  .contactimg:hover .contactContent{
+  display:block;(если не сработает тогда вместо block напиши inline)
+  transition: all .3s;
+  }
