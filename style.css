@@ -1,0 +1,28 @@
+header {
+  background-color: white;
+  box-shadow: 0 0 15px rgb(97, 88, 88);
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+header ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+header ul a{
+  padding: 15px;
+  display: inline-block;
+}
+body{
+  margin: 0;
+}
+tr:first-child{
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  position: sticky;
+  top: 50px;
+  
+}
