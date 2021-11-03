@@ -26,3 +26,9 @@ tr:first-child{
   top: 50px;
   
 }
+a{
+  position: sticky;
+  bottom: 0;
+  margin: 20px;
+  
+}
